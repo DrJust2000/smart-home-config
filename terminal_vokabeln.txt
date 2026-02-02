@@ -1,0 +1,20 @@
+# 📂 Orientierung
+pwd              # Wo bin ich?
+ls -l            # Was ist hier?
+cd [Ordner]      # Gehe zu...
+
+# 🐳 Docker
+docker ps        # Wer läuft?
+docker compose up -d  # Alles starten
+docker compose logs -f # Fehler suchen
+
+# 🐙 Git
+git status       # Was ist neu?
+git add .        # Einpacken
+git commit -m "" # Beschriften
+git push         # Hochladen
+
+# 🛠️ System
+sudo             # Admin-Rechte
+clear            # Fenster putzen
+Strg + C         # Stop!

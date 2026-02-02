@@ -1,0 +1,13 @@
+services:
+  mc-server:
+    image: itzg/minecraft-server
+    container_name: minecraft-server
+    ports:
+      - "25565:25565" # Der Standard Minecraft-Port
+    environment:
+      EULA: "TRUE"    # Du stimmst den Endbenutzer-Lizenzbedingungen zu
+      TYPE: "PAPER"   # Eine performante Version von Minecraft
+      MEMORY: "2G"    # Wie viel RAM der Server nutzen darf
+    volumes:
+      - ./data:/data  # Speichert deine Welt in einem Unterordner namens "data"
+    restart: unless-stopped
