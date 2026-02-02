@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "minor_version": 9,
+  "key": "core.area_registry",
+  "data": {
+    "areas": [
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": "mdi:sofa",
+        "id": "wohnzimmer",
+        "labels": [],
+        "name": "Wohnzimmer",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-02-02T21:20:32.649551+00:00",
+        "modified_at": "2026-02-02T21:20:32.649556+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": "mdi:stove",
+        "id": "kuche",
+        "labels": [],
+        "name": "Küche",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-02-02T21:20:32.649713+00:00",
+        "modified_at": "2026-02-02T21:20:32.649715+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": "mdi:bed",
+        "id": "schlafzimmer",
+        "labels": [],
+        "name": "Schlafzimmer",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-02-02T21:20:32.649762+00:00",
+        "modified_at": "2026-02-02T21:20:32.649763+00:00"
+      }
+    ]
+  }
+}

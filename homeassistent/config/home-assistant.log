@@ -1,0 +1,41 @@
+2026-02-02 22:18:47.256 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:18:47.512 WARNING (MainThread) [homeassistant.components.http.ban] Login attempt or request with invalid authentication from ip6-localhost (::1). Requested URL: '/auth/token'. (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36)
+2026-02-02 22:18:47.591 WARNING (MainThread) [homeassistant.components.http.ban] Login attempt or request with invalid authentication from ip6-localhost (::1). Requested URL: '/auth/token'. (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36)
+2026-02-02 22:18:47.956 WARNING (MainThread) [homeassistant.components.http.ban] Login attempt or request with invalid authentication from ip6-localhost (::1). Requested URL: '/auth/token'. (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36)
+2026-02-02 22:18:52.520 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:18:55.819 WARNING (zeroconf-ServiceBrowser-_googlecast._tcp-131) [pychromecast.dial] Failed to determine cast type for host <unknown> (<urlopen error [Errno -3] Try again>) (services:{MDNSServiceInfo(name='MagentaTV-One-(2.-Ge-892064060b07c2814c9312591650ef98._googlecast._tcp.local.')})
+2026-02-02 22:19:00.838 ERROR (Thread-5) [pychromecast.socket_client] [Fernseher im Wohnzimmer(89206406-0b07-c281-4c93-12591650ef98.local.):8009] Failed to connect to service MDNSServiceInfo(name='MagentaTV-One-(2.-Ge-892064060b07c2814c9312591650ef98._googlecast._tcp.local.'), retrying in 5.0s
+2026-02-02 22:19:02.995 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:19:09.741 WARNING (MainThread) [homeassistant.components.http.ban] Login attempt or request with invalid authentication from ip6-localhost (::1). Requested URL: '/auth/token'. (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36)
+2026-02-02 22:19:09.748 WARNING (MainThread) [homeassistant.components.http.ban] Login attempt or request with invalid authentication from ip6-localhost (::1). Requested URL: '/api/websocket'. (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36)
+2026-02-02 22:19:23.052 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:20:03.286 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:20:41.965 WARNING (MainThread) [homeassistant.helpers.translation] Failed to load integration for translation: Invalid domain mobile_app.notify
+2026-02-02 22:20:41.965 WARNING (MainThread) [homeassistant.helpers.translation] Failed to load integration for translation: Invalid domain energy.sensor
+2026-02-02 22:20:41.965 WARNING (MainThread) [homeassistant.helpers.translation] Failed to load integration for translation: Invalid domain cloud.tts
+2026-02-02 22:20:41.966 WARNING (MainThread) [homeassistant.helpers.translation] Failed to load integration for translation: Invalid domain sun.sensor
+2026-02-02 22:20:41.966 WARNING (MainThread) [homeassistant.helpers.translation] Failed to load integration for translation: Invalid domain cast.media_player
+2026-02-02 22:20:41.966 WARNING (MainThread) [homeassistant.helpers.translation] Failed to load integration for translation: Invalid domain backup.sensor
+2026-02-02 22:20:41.966 WARNING (MainThread) [homeassistant.helpers.translation] Failed to load integration for translation: Invalid domain sun.binary_sensor
+2026-02-02 22:20:41.966 WARNING (MainThread) [homeassistant.helpers.translation] Failed to load integration for translation: Invalid domain backup.event
+2026-02-02 22:20:41.966 WARNING (MainThread) [homeassistant.helpers.translation] Failed to load integration for translation: Invalid domain homeassistant.scene
+2026-02-02 22:21:16.102 WARNING (MainThread) [homeassistant.components.http.ban] Login attempt or request with invalid authentication from Android_QYFHEXCV.fritz.box (192.168.178.28). Requested URL: '/auth/login_flow/dfbe60921981d35f7d9ff3330760e891'. (Mozilla/5.0 (Linux; Android 16; Pixel 7 Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/144.0.7559.109 Mobile Safari/537.36 Home Assistant/2026.1.6-20004 (Android 16; Pixel 7))
+2026-02-02 22:21:23.655 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:22:43.731 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:24:03.978 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:25:24.431 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:26:44.498 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:28:04.712 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:29:25.012 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:30:45.334 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:32:05.433 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:33:25.754 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:34:45.811 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:36:05.948 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:37:26.403 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:38:46.556 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:40:06.746 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:41:27.031 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:42:47.301 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:44:07.746 ERROR (MainThread) [habluetooth.scanner] hci0 (A8:93:4A:CB:CC:C6): Failed to force stop scanner: 'NoneType' object has no attribute 'send'
+2026-02-02 22:44:40.960 ERROR (Thread-5) [pychromecast.socket_client] [Fernseher im Wohnzimmer(2a00:6020:11f8:4a00:f9f:97db:5542:c733):8009] Failed to connect. No retries.
