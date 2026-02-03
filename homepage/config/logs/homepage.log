@@ -30,3 +30,6 @@
     at internalConnectMultiple (node:net:1134:18)
     at afterConnectMultiple (node:net:1715:7)
     at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-02-03T22:01:08.250Z] error: <minecraftProxyHandler> Error: connect ECONNREFUSED 172.17.0.1:25565
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
