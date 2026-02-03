@@ -6,3 +6,27 @@
 [2026-02-03T21:48:46.578Z] info: widgets.yaml was copied to the config folder
 [2026-02-03T21:48:46.579Z] info: custom.css was copied to the config folder
 [2026-02-03T21:48:46.580Z] info: custom.js was copied to the config folder
+[2026-02-03T21:51:06.707Z] error: <minecraftProxyHandler> AggregateError: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-02-03T21:51:52.851Z] error: <minecraftProxyHandler> AggregateError: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-02-03T21:51:53.161Z] error: <minecraftProxyHandler> AggregateError: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-02-03T21:52:14.552Z] error: <minecraftProxyHandler> AggregateError: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-02-03T21:52:14.865Z] error: <minecraftProxyHandler> AggregateError: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-02-03T21:52:52.416Z] error: <minecraftProxyHandler> AggregateError: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
