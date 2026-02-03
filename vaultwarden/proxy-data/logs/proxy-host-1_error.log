@@ -1,0 +1,1 @@
+2026/02/03 11:56:40 [warn] 234#234: *1560 an upstream response is buffered to a temporary file /var/cache/nginx/proxy_temp/5/74/0000000745 while reading upstream, client: 172.19.0.1, server: vault.local, request: "GET /app/main.68a82fe82ef22fa1a660.js HTTP/1.1", upstream: "http://172.19.0.2:80/app/main.68a82fe82ef22fa1a660.js", host: "vault.local", referrer: "http://vault.local/"
