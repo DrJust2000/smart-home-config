@@ -1,0 +1,5 @@
+# Docker Logs und Daten ignorieren
+**/logs/
+**/data/
+*.log
+*.tar.gz
